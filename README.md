@@ -57,7 +57,7 @@ OUTPUT:
 
 <img width="809" height="560" alt="502127754-cd2b50cd-00c5-4f45-9d7f-d719a6b2647e" src="https://github.com/user-attachments/assets/6a0dfde4-e83b-4d49-98d7-ff58f66a62e3" />
 
-Aaa<img width="812" height="540" alt="502128054-e88e30fe-929f-4d70-8122-4c2dbb352748" src="https://github.com/user-attachments/assets/c9303953-24b6-4e95-9e62-02ffd568de39" />
+<img width="812" height="540" alt="502128054-e88e30fe-929f-4d70-8122-4c2dbb352748" src="https://github.com/user-attachments/assets/c9303953-24b6-4e95-9e62-02ffd568de39" />
 
 
 # Result: The various types of Prompts are executed successfully with generated the report.
